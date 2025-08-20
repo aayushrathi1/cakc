@@ -884,7 +884,7 @@ def get_enhanced_quiz_questions():
             "❤️ Long heartfelt messages",
             "⏳ Thoughtful & slow",
             "📸 Pictures speak louder",
-            "🎵 Song lyrics & quotes"
+            "🎵 Song lyrics & quotes",
             "⚡ Fast & Correct"
         ],
         "music_vibes": [
@@ -910,7 +910,7 @@ def get_enhanced_quiz_questions():
             "🛍️ Shopping & exploring city",
             "👥 Hanging with friends",
             "📚 Quiet reading & relaxation",
-            "🎪 Trying new experiences"
+            "🎪 Trying new experiences",
             "😴 Sleeping and cuddle"
         ]
     }
