@@ -103,6 +103,7 @@ h1, h2, h3, h4 {
     background: linear-gradient(45deg, #ff007f, #ff4da6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    color: #ff007f;
     margin: 10px 0;
     text-shadow: none;
     animation: glow 2s ease-in-out infinite alternate;
